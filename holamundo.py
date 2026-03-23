@@ -1,6 +1,6 @@
 print("hola mundo")
 
- daniel-rama
+
 def mostrar_nombre():
     print("Daniel Castillejos")
 
