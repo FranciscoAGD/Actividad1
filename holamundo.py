@@ -8,6 +8,7 @@ def mostrar_nombre():
 >>>>>>> 956c1eb (Correciones)
 
 
+<<<<<<< HEAD
 def Francisco():
     print("Francisco")
 
@@ -22,3 +23,5 @@ mostrar_nombre()
 
 
 
+=======
+>>>>>>> 1e5e305 (Cambios en el codigo de la funcion daniel)
