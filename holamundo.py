@@ -21,9 +21,6 @@ def mostrar_nombre():
 mostrar_nombre()
 
 
-def mostrar_nombre():
-    print("Diego Aramburo")
 
-mostrar_nombre()
 
 
