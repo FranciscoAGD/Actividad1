@@ -1,5 +1,11 @@
 print("hola mundo")
 
+<<<<<<< HEAD
+=======
+
+def mostrar_nombre():
+    print("Daniel Castillejos")
+>>>>>>> 956c1eb (Correciones)
 
 
 def Francisco():
